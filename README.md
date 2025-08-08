@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShigekuniWork/algorithm/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/ShigekuniWork/algorithm/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ShigekuniWork/algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
