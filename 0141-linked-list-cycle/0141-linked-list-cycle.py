@@ -16,5 +16,5 @@ class Solution:
                 # detect cycle
                 return True
         
-        # no cycle
+        # No cycle
         return False
