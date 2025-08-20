@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ShigekuniWork/algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ShigekuniWork/algorithm/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShigekuniWork/algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ShigekuniWork/algorithm/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 ## Hash Table
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShigekuniWork/algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShigekuniWork/algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ShigekuniWork/algorithm/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ShigekuniWork/algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShigekuniWork/algorithm/tree/master/0242-valid-anagram) |
@@ -48,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShigekuniWork/algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ShigekuniWork/algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShigekuniWork/algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShigekuniWork/algorithm/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShigekuniWork/algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ShigekuniWork/algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ShigekuniWork/algorithm/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ShigekuniWork/algorithm/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -122,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShigekuniWork/algorithm/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
