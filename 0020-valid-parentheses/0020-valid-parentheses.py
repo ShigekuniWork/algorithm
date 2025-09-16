@@ -1,15 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         # I will use a stack to solve this problem.
-        # We store open brackets in the stack.
-        # Iterate through the string and check whether the current closing bracket
+        # We store opening brackets in the stack until we find their corresponding closing brackets.
+        # Iterate through the string and check whether each closing bracket
         # matches the corresponding opening bracket from the stack.
         # If we encounter an invalid match or the stack is not empty at the end, return False.
         # Otherwise, return True.
         
         # Initialize stack to store the opening brackets.
         stack = []
-        # Initialize pairs ot the corresponding brackets.
+        # Initialize the mapping of corresponding brackets.
         mapping = {')': '(', ']': '[', '}': '{'}
         
         # Iterate through the string.
