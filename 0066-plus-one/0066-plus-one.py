@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         # I will simulate addition from the last digit to the first.
