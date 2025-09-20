@@ -1,26 +1,29 @@
+from typing import List
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # I iterate through list to efficiently solve this problem more than brute force.
-        # Iterate and check max profit and update grater than profit.
-        
-        # if prices list is empty, profit is 0
-        if prices is None:
+        # We solve this in one pass instead of brute force.
+        # We keep the lowest price so far and update the max profit as we go.
+
+        # When the list is empty, profit is zero.
+        if not prices:
             return 0
-        
-        # default maximum profit is 0
+
+        # The profit starts at zero.
         max_profit = 0
-        
-        # I keep minimal buy price for calculate profit
-        buy_price = prices[0]
-        
-        # Iterate from 1 index
-        for current_price in prices[1:]:
-            # check weather less than maximum buy price
-            buy_price = min(current_price, buy_price)
-            
-            # update maximum profit
-            profit = current_price - buy_price
-            max_profit = max(profit, max_profit)
-        
+
+        # The lowest price starts as the first price.
+        min_price = prices[0]
+
+        # Iterate through the list from the second price.
+        for price in prices[1:]:
+            # If it sells here, profit is current price minus the lowest.
+            max_profit = max(max_profit, price - min_price)
+            # Then it updates the lowest if this price is smaller.
+            min_price = min(min_price, price)
+
+        # In the end, we get the best profit.
         return max_profit
-            
+
+        # Time is O(n). Space is O(1).
