@@ -8,15 +8,15 @@ class Solution:
         tail = head
         
         # Iterate thought the list and initialize valuable to track carry out
-        carry_out = 0
-        while carry_out == 1 or l1 or l2:
+        carry_up = 0
+        while carry_up or l1 or l2:
             v1_value = l1.val if l1 else 0
             v2_value = l2.val if l2 else 0
             
-            total = v1_value + v2_value + carry_out
+            total = v1_value + v2_value + carry_up
             
-            # update digit adn carry out
-            carry_out, digit = divmod(total, 10)
+            # update digit and carry out
+            carry_up, digit = divmod(total, 10)
             tail.next = ListNode(digit)
             tail = tail.next
             
