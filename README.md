@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShigekuniWork/algorithm/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/ShigekuniWork/algorithm/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ShigekuniWork/algorithm/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ShigekuniWork/algorithm/tree/master/0133-clone-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ShigekuniWork/algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
