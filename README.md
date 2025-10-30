@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ShigekuniWork/algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ShigekuniWork/algorithm/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShigekuniWork/algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShigekuniWork/algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShigekuniWork/algorithm/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShigekuniWork/algorithm/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShigekuniWork/algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
