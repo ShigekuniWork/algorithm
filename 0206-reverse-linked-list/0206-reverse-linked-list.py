@@ -3,13 +3,15 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        prev = None
+        result = None
+
         while head:
-            temp_next = head.next
-            head.next = prev
-            prev = head
-            head = temp_next
+            temp = head.next
+            head.next = result
+            result = head
+            head = temp
         
-        return prev
+        return result
