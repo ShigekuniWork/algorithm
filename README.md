@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/ShigekuniWork/algorithm/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ShigekuniWork/algorithm/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ShigekuniWork/algorithm/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ShigekuniWork/algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
