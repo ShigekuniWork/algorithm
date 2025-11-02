@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShigekuniWork/algorithm/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ShigekuniWork/algorithm/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ShigekuniWork/algorithm/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShigekuniWork/algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShigekuniWork/algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShigekuniWork/algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ShigekuniWork/algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ShigekuniWork/algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ShigekuniWork/algorithm/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ShigekuniWork/algorithm/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ShigekuniWork/algorithm/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ShigekuniWork/algorithm/tree/master/0139-word-break) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ShigekuniWork/algorithm/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 ## Topological Sort
 |  |
 | ------- |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShigekuniWork/algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
