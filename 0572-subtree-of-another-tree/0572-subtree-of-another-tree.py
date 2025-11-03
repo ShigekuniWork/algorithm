@@ -4,30 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
+
+class Solution:   
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if root is None:
-            return False
-        
-        if root.val == subRoot.val:
-            is_same_tree = self._checkSameTree(root, subRoot)
-            if is_same_tree:
-                return True
-
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
-    
-    def _checkSameTree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if root is None and subRoot is None:
+        if not subRoot:
             return True
-        
-        if root is None or subRoot is None:
+        if not root:
             return False
-        
-        if root.val != subRoot.val:
-            return False
-        
-        return self._checkSameTree(root.left, subRoot.left) and self._checkSameTree(root.right, subRoot.right)
-        
 
-        
+        if self._isSameTree(root, subRoot):
+            return True
+        return (self.isSubtree(root.left, subRoot) or
+               self.isSubtree(root.right, subRoot))
+            
+    
+    def _isSameTree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+        if not root and not subRoot:
+            return True
+        if root and subRoot and root.val == subRoot.val:
+            return (self._isSameTree(root.left, subRoot.left) and
+                   self._isSameTree(root.right, subRoot.right))
+        return False
         
