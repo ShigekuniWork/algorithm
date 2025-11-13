@@ -8,32 +8,19 @@ class Node:
 
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        """
-        I'd approach to solve this problem by using DFS.
-        I'll use a hash map to track visited nodes and prevent duplicated deep copies.
-        For each node, I'll create a copy and recursively clone its neighbors.
-        """
-        # Initialize visited node map
-        visited = {}
+        if not node:
+            return None
 
-        # Declare dfs function
-        def dfs(node):
-            # When current node is in visited, return the visited node
-            if node in visited:
-                return visited[node]
-            
-            # Create deep copy of current node
-            copy = Node(node.val)
-            # Record copied node to visited
-            visited[node] = copy
-            # Iterate through current node's neighbors to copy them as well
-            for nei in node.neighbors:
-                copy.neighbors.append(dfs(nei))
-            return copy
+        old_to_new = {}
+        old_to_new[node] = Node(node.val)
+        q = deque([node])
 
-        return dfs(node) if node else None
+        while q:
+            cur = q.popleft()
+            for nei in cur.neighbors:
+                if nei not in old_to_new:
+                    old_to_new[nei] = Node(nei.val)
+                    q.append(nei)
+                old_to_new[cur].neighbors.append(old_to_new[nei])
 
-        """
-        Time complexity is O(V+E) because we need to visit each vertex and edge.
-        Space complexity is O(V) because I used a hash map to store visited nodes.
-        """
+        return old_to_new[node]
