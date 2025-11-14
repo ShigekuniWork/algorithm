@@ -1,12 +1,11 @@
 class Solution:
     def combinationSum(self, nums: List[int], target: int) -> List[List[int]]:
-        res = []
+        response = []
         nums.sort()
 
-        def dfs(i, cur, total):
+        def dfs(i:int, cur: List[int], total: int) -> None:
             if total == target:
-                res.append(cur.copy())
-                return
+                response.append(cur.copy())
             
             for j in range(i, len(nums)):
                 if total + nums[j] > target:
@@ -15,6 +14,5 @@ class Solution:
                 cur.append(nums[j])
                 dfs(j, cur, total + nums[j])
                 cur.pop()
-
         dfs(0, [], 0)
-        return res
+        return response
