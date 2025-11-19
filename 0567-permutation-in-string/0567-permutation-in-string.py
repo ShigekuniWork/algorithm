@@ -3,12 +3,12 @@ class Solution:
         if len(s1) > len(s2):
             return False
 
-        s1_count = {}
-        s2_count = {}
+        s1_count = defaultdict(int)
+        s2_count = defaultdict(int)
 
         for i in range(len(s1)):
-            s1_count[s1[i]] = 1 + s1_count.get(s1[i], 0)
-            s2_count[s2[i]] = 1 + s2_count.get(s2[i], 0)
+            s1_count[s1[i]] += 1
+            s2_count[s2[i]] += 1
 
         if s1_count == s2_count:
             return True
