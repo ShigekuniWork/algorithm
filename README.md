@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShigekuniWork/algorithm/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShigekuniWork/algorithm/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShigekuniWork/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ShigekuniWork/algorithm/tree/master/0647-palindromic-substrings) |
 ## Tree
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/ShigekuniWork/algorithm/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/ShigekuniWork/algorithm/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShigekuniWork/algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
