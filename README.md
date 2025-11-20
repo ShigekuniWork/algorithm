@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShigekuniWork/algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ShigekuniWork/algorithm/tree/master/0371-sum-of-two-integers) |
+| [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShigekuniWork/algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/ShigekuniWork/algorithm/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
 ## Memoization
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ShigekuniWork/algorithm/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 ## Topological Sort
 |  |
 | ------- |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
