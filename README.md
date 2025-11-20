@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
+| [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShigekuniWork/algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ShigekuniWork/algorithm/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShigekuniWork/algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 ## Combinatorics
 |  |
 | ------- |
