@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
+| [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShigekuniWork/algorithm/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
