@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ShigekuniWork/algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
+| [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
+| [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShigekuniWork/algorithm/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ShigekuniWork/algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShigekuniWork/algorithm/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ShigekuniWork/algorithm/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Binary Search Tree
 |  |
