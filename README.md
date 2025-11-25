@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
