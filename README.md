@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
+| [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShigekuniWork/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
+| [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 ## Dynamic Programming
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShigekuniWork/algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ShigekuniWork/algorithm/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
 ## Trie
 |  |
 | ------- |
