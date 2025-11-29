@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
+| [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/ShigekuniWork/algorithm/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShigekuniWork/algorithm/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/ShigekuniWork/algorithm/tree/master/0647-palindromic-substrings) |
+| [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
 ## Binary Tree
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ShigekuniWork/algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
+| [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Binary Search Tree
 |  |
