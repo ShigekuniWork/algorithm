@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/ShigekuniWork/algorithm/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
+| [0875-koko-eating-bananas](https://github.com/ShigekuniWork/algorithm/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/ShigekuniWork/algorithm/tree/master/0883-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/ShigekuniWork/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShigekuniWork/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ShigekuniWork/algorithm/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/ShigekuniWork/algorithm/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
