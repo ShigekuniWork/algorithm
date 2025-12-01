@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/ShigekuniWork/algorithm/tree/master/0647-palindromic-substrings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ShigekuniWork/algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShigekuniWork/algorithm/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ShigekuniWork/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ShigekuniWork/algorithm/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Geometry
 |  |
 | ------- |
