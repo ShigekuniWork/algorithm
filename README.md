@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShigekuniWork/algorithm/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShigekuniWork/algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShigekuniWork/algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ShigekuniWork/algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ShigekuniWork/algorithm/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShigekuniWork/algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ShigekuniWork/algorithm/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ShigekuniWork/algorithm/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShigekuniWork/algorithm/tree/master/0191-number-of-1-bits) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShigekuniWork/algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShigekuniWork/algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ShigekuniWork/algorithm/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/ShigekuniWork/algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShigekuniWork/algorithm/tree/master/0079-word-search) |
 | [0473-matchsticks-to-square](https://github.com/ShigekuniWork/algorithm/tree/master/0473-matchsticks-to-square) |
 ## Topological Sort
