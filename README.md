@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ShigekuniWork/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ShigekuniWork/algorithm/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ShigekuniWork/algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ShigekuniWork/algorithm/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/ShigekuniWork/algorithm/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Trie
 |  |
 | ------- |
