@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ShigekuniWork/algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ShigekuniWork/algorithm/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ShigekuniWork/algorithm/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShigekuniWork/algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ShigekuniWork/algorithm/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
 | ------- |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ShigekuniWork/algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
