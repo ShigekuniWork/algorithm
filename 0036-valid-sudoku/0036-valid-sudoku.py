@@ -1,26 +1,22 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        rows_mask = [0] * 9  
-        cols_mask = [0] * 9
-        squares_mask = [[0] * 3 for _ in range(3)] 
+        cols = defaultdict(set)
+        rows = defaultdict(set)
+        squares = defaultdict(set)
 
-        for r in range(9):
-            for c in range(9):
-                cur = board[r][c]
-                if cur == ".":
+        for row in range(9):
+            for col in range(9):
+                cur = board[row][col]
+                if  cur == ".":
                     continue
                 
-                n = int(cur) 
-                
-                flag = 1 << n 
-
-                if (rows_mask[r] & flag) or \
-                (cols_mask[c] & flag) or \
-                (squares_mask[r // 3][c // 3] & flag):
+                if (cur in rows[row] or
+                    cur in cols[col] or
+                    cur in squares[(row // 3, col // 3)]):
                     return False
-
-                rows_mask[r] |= flag
-                cols_mask[c] |= flag
-                squares_mask[r // 3][c // 3] |= flag
-
+                
+                cols[col].add(cur)
+                rows[row].add(cur)
+                squares[(row//3, col//3)].add(board[row][col])
+        
         return True
