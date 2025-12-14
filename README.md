@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ShigekuniWork/algorithm/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ShigekuniWork/algorithm/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/ShigekuniWork/algorithm/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/ShigekuniWork/algorithm/tree/master/1036-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShigekuniWork/algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
