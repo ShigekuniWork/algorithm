@@ -7,14 +7,19 @@
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def valid(node, left, right):
-            if not node:
-                return True
-            if not (left < node.val < right):
+        if not root:
+            return True
+        q = deque([(root, float("-INF"), float("INF"))])
+        
+        while q:
+            node, min_limit, max_limit = q.popleft()
+
+            if not (min_limit < node.val < max_limit):
                 return False
-
-            return valid(node.left, left, node.val) and valid(
-                node.right, node.val, right
-            )
-
-        return valid(root, float("-inf"), float("inf"))
+            
+            if node.left:
+                q.append((node.left, min_limit, node.val))
+            if node.right:
+                q.append((node.right, node.val, max_limit))
+        
+        return True
