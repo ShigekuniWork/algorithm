@@ -1,16 +1,19 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        response = []
+        nums.sort()
+        res = []
+        n = len(nums)
 
-        def dfs(idex: int, cur: List[int]):
-            if idex == len(nums):
-                response.append(cur.copy())
+        def dfs(curr):
+            if len(curr) == n:
+                res.append(curr.copy())
                 return
+            for x in nums:
+                if x in curr:
+                    continue
+                curr.append(x)
+                dfs(curr)
+                curr.pop()
 
-            for i in range(idex, len(nums)):
-                cur[i], cur[idex] = cur[idex], cur[i]
-                dfs(idex+1, cur)
-                cur[i], cur[idex] = cur[idex], cur[i]
-
-        dfs(0, nums)
-        return response
+        dfs([])
+        return res
