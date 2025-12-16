@@ -1,21 +1,21 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = []
         candidates.sort()
+        res = []
 
-        def dfs(idx, path, cur):
-            if cur == target:
-                res.append(path.copy())
+        def dfs(idex, curr, total):
+            if total == target:
+                res.append(curr.copy())
                 return
-            for i in range(idx, len(candidates)):
-                if i > idx and candidates[i] == candidates[i - 1]:
+            
+            for i in range(idex, len(candidates)):
+                if i > idex and candidates[i] == candidates[i-1]:
                     continue
-                if cur + candidates[i] > target:
+                if total + candidates[i] > target:
                     break
-
-                path.append(candidates[i])
-                dfs(i + 1, path, cur + candidates[i])
-                path.pop()
+                curr.append(candidates[i])
+                dfs(i + 1, curr, total + candidates[i])
+                curr.pop()
 
         dfs(0, [], 0)
         return res
