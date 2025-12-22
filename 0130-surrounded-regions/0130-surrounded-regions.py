@@ -1,44 +1,32 @@
 class Solution:
-    PROTECTED_O = '#' 
+    def solve(self, board: List[List[str]]) -> None:
+        rows, cols = len(board), len(board[0])
 
-    def solve(self, board: list[list[str]]) -> None:
-        if not board or not board[0]:
-            return
+        q = deque()
 
-        num_rows, num_cols = len(board), len(board[0])
+        for r in range(rows):
+            for c in (0, cols - 1):
+                if board[r][c] == "O":
+                    board[r][c] = "#" 
+                    q.append((r, c))
+        
+        for c in range(cols):
+            for r in (0, rows - 1):
+                if board[r][c] == "O":
+                    board[r][c] = "#"
+                    q.append((r, c))
 
-        def mark_connected_os(row_index, col_index):
-            if (row_index < 0 or row_index >= num_rows or
-                col_index < 0 or col_index >= num_cols or
-                board[row_index][col_index] != 'O'):
-                return
-
-            board[row_index][col_index] = self.PROTECTED_O
-            
-            mark_connected_os(row_index + 1, col_index) 
-            mark_connected_os(row_index - 1, col_index) 
-            mark_connected_os(row_index, col_index + 1) 
-            mark_connected_os(row_index, col_index - 1) 
-
-        for col_index in range(num_cols):
-            if board[0][col_index] == 'O':
-                mark_connected_os(0, col_index)
-            if board[num_rows - 1][col_index] == 'O':
-                mark_connected_os(num_rows - 1, col_index)
-
-        for row_index in range(num_rows):
-            if board[row_index][0] == 'O':
-                mark_connected_os(row_index, 0)
-            if board[row_index][num_cols - 1] == 'O':
-                mark_connected_os(row_index, num_cols - 1)
-
-        for row_index in range(num_rows):
-            for col_index in range(num_cols):
-                if board[row_index][col_index] == 'O':
-                    # 保護されずに残っている 'O' は、完全に囲まれていることを意味するため、
-                    # 問題の要件に従って 'X' に反転する
-                    board[row_index][col_index] = 'X'
-                elif board[row_index][col_index] == self.PROTECTED_O:
-                    # '#' にマークされたマスは、境界線と繋がっていた 'O' なので、元の 'O' に戻す
-                    board[row_index][col_index] = 'O'
-                    
+        while q:
+            r, c = q.popleft()
+            for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < rows and 0 <= nc < cols and board[nr][nc] == "O":
+                    board[nr][nc] = "#"
+                    q.append((nr, nc))
+        
+        for r in range(rows):
+            for c in range(cols):
+                if board[r][c] == "O":
+                    board[r][c] = "X"
+                elif board[r][c] == "#":
+                    board[r][c] = "O"
