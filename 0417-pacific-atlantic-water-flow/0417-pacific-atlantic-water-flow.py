@@ -1,24 +1,25 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        if not heights or not heights[0]:
-            return []
-        m, n = len(heights), len(heights[0])
-        pac, atl = set(), set()
-        dirs = ((1,0),(-1,0),(0,1),(0,-1))
+        res = []
+        rows, cols = len(heights), len(heights[0])
+        pacific = set()
+        atlantic = set()
 
-        def dfs(r: int, c: int, seen: set):
-            seen.add((r, c))
-            for dr, dc in dirs:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < m and 0 <= nc < n and (nr, nc) not in seen:
+        def dfs(r, c, visited):
+            visited.add((r, c))
+
+            for dr, dc in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
+                nr, nc = dr + r, dc + c
+                if nr in range(rows) and nc in range(cols) and (nr, nc) not in visited:
                     if heights[nr][nc] >= heights[r][c]:
-                        dfs(nr, nc, seen)
+                        dfs(nr, nc, visited)
 
-        for c in range(n):
-            dfs(0, c, pac)
-            dfs(m - 1, c, atl)
-        for r in range(m):
-            dfs(r, 0, pac)
-            dfs(r, n - 1, atl)
+        for r in range(rows):
+            dfs(r, 0, pacific)
+            dfs(r, cols -1, atlantic)
 
-        return list(pac & atl)
+        for c in range(cols):
+            dfs(0, c, pacific)
+            dfs(rows-1, c, atlantic)
+
+        return list(pacific & atlantic)
