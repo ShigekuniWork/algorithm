@@ -1,25 +1,23 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        if len(s) < 2:
-            return s
+        if not s:
+            return ""
 
-        start = end = 0
+        start, max_length = 0, 0
 
-        def expand(left:int, right:int):
+        def updateMaxPalindrome(left: int, right: int) -> None:
+            nonlocal start, max_length
+
             while left >= 0 and right < len(s) and s[left] == s[right]:
+                current_length = right - left + 1
+                if current_length > max_length:
+                    start = left
+                    max_length = current_length
                 left -= 1
                 right += 1
-            
-            return left + 1, right - 1
-
+        
         for i in range(len(s)):
-            even_s, even_e = expand(i, i+1)
-            odd_s, odd_e = expand(i, i)
-
-            if even_e - even_s > end - start:
-                start, end = even_s, even_e
-
-            if odd_e - odd_s > end - start:
-                start, end = odd_s, odd_e
-
-        return s[start:end+1]
+            updateMaxPalindrome(i, i)
+            updateMaxPalindrome(i, i + 1)
+        
+        return s[start : start + max_length]
