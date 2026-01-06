@@ -1,19 +1,15 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        dp = {len(s) : 1}
-        res = 0
+        dp1, dp2 = 1, 0
 
-        def dfs(index: int):
-            if index in dp:
-                return dp[index]
-            if s[index] == "0":
-                return 0
-            
-            res = dfs(index + 1)
-            if index + 1 < len(s) and 10 <= int(s[index:index+2]) <= 26:
-                res += dfs(index + 2)
-            
-            dp[index] = res
-            return res
-        
-        return dfs(0)
+        for i in range(len(s) -1, -1, -1):
+            if s[i] == "0":
+                current = 0
+            else:
+                current = dp1
+                if i + 1 < len(s) and (s[i] == "1" or s[i] == "2" and s[i+1] in "0123456"):
+                    current += dp2
+
+            dp1, dp2 = current, dp1
+
+        return dp1
