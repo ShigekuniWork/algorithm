@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShigekuniWork/algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShigekuniWork/algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShigekuniWork/algorithm/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ShigekuniWork/algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/ShigekuniWork/algorithm/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ShigekuniWork/algorithm/tree/master/1250-longest-common-subsequence) |
 ## Binary Tree
 |  |
