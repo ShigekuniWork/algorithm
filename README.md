@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ShigekuniWork/algorithm/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/ShigekuniWork/algorithm/tree/master/1929-concatenation-of-array) |
+| [2013-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2013-detect-squares) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ShigekuniWork/algorithm/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ShigekuniWork/algorithm/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2013-detect-squares) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Math
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShigekuniWork/algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShigekuniWork/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ShigekuniWork/algorithm/tree/master/0621-task-scheduler) |
+| [2013-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2013-detect-squares) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Quickselect
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/ShigekuniWork/algorithm/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ShigekuniWork/algorithm/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/ShigekuniWork/algorithm/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2013-detect-squares) |
 | [2139-detect-squares](https://github.com/ShigekuniWork/algorithm/tree/master/2139-detect-squares) |
 ## Binary Search Tree
 |  |
