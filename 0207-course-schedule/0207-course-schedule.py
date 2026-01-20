@@ -1,25 +1,24 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         indegree = [0] * numCourses
-        adj = [[] for _ in range(numCourses)]
-
-        for start, end in prerequisites:
-            indegree[end] += 1
-            adj[start].append(end)
+        adj = [[] for i in range(numCourses)]
+        for src, dst in prerequisites:
+            indegree[dst] += 1
+            adj[src].append(dst)
         
         q = deque()
-        for i in range(numCourses):
-            if indegree[i] == 0:
-                q.append(i)
-
+        for n in range(numCourses):
+            if indegree[n] == 0:
+                q.append(n)
+        
         finish = 0
         while q:
-            end = q.popleft()
+            node = q.popleft()
             finish += 1
-
-            for nei in adj[end]:
+            for nei in adj[node]:
                 indegree[nei] -= 1
                 if indegree[nei] == 0:
                     q.append(nei)
         
         return finish == numCourses
+
