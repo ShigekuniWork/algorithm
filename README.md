@@ -542,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ShigekuniWork/algorithm/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ShigekuniWork/algorithm/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
