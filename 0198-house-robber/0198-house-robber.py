@@ -1,7 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0, 0
+        dp1, dp2 = 0, 0
+
         for n in nums:
-            rob1, rob2 = rob2, max(rob1 + n, rob2)
-        
-        return rob2
+            dp1, dp2 = dp2, dp1
+            dp2 = max(dp1, dp2 + n)
+
+        return dp2
