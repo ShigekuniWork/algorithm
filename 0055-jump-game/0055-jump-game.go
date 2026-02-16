@@ -1,11 +1,15 @@
 func canJump(nums []int) bool {
-    goal := len(nums) - 1
+    max_reach := 0
 
-    for i := len(nums) -1; i >= 0; i-- {
-        if nums[i] + i >= goal {
-            goal = i
+    for i, n := range nums {
+        if i > max_reach {
+            return false
+        }
+        max_reach = max(max_reach, i + n)
+        if max_reach >= len(nums)-1 {
+            return true
         }
     }
 
-    return goal == 0
+    return true
 }
