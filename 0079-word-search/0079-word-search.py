@@ -1,24 +1,28 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        ROWS, COLS = len(board), len(board[0])
-
-        def dfs(r, c, i):
-            if i == len(word):
+        rows, cols = len(board), len(board[0])
+        
+        def dfs(row, col, idx):
+            if len(word) == idx:
                 return True
-            if (r < 0 or c < 0 or r >= ROWS or c >= COLS or
-                word[i] != board[r][c] or board[r][c] == '#'):
+            if not (0 <= row < rows and 0 <= col < cols):
                 return False
-
-            board[r][c] = '#'
-            res = (dfs(r + 1, c, i + 1) or
-                   dfs(r - 1, c, i + 1) or
-                   dfs(r, c + 1, i + 1) or
-                   dfs(r, c - 1, i + 1))
-            board[r][c] = word[i]
+            if board[row][col] == "#" or word[idx] != board[row][col]:
+                return False
+            
+            board[row][col] = "#"
+            res = (
+                dfs(row, col + 1, idx + 1) or
+                dfs(row, col - 1, idx + 1) or
+                dfs(row + 1, col, idx + 1) or
+                dfs(row - 1, col, idx + 1)
+            )
+            board[row][col] = word[idx]
             return res
 
-        for r in range(ROWS):
-            for c in range(COLS):
+        for r in range(rows):
+            for c in range(cols):
                 if dfs(r, c, 0):
                     return True
+
         return False
